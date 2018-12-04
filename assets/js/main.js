@@ -171,10 +171,10 @@ $(document).ready(function() {
 	    nextArrow: $('.slider__btn--next'),
 	  });
 
-	// preloader
+	// // preloader
 	
-	$(".preloader__btn").click(function(event) {
-		$(".preloader").fadeOut('slow');
-	});
+	// $(".preloader__btn").click(function(event) {
+	// 	$(".preloader").fadeOut('slow');
+	// });
 });
 
